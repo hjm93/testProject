@@ -14,7 +14,7 @@
 		<td>제목</td>
 		<td>작성자</td>
 		<td>등록일</td>
-		<td>조회수</td>
+		<td>조회수zzzz</td>
 	</tr>
 	<c:forEach var="b" items="${list }">
 		<tr>
