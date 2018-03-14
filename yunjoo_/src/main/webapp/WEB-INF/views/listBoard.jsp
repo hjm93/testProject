@@ -10,7 +10,7 @@
 <body>
 	<table>
 	<tr>
-		<td>글번호</td>
+		<td>글번호aaaaaa</td>
 		<td>제목</td>
 		<td>작성자</td>
 		<td>등록일</td>
